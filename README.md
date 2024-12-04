@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I'm Sasin Ransara. Software Enginnering(undergraduate) Student at SLIIT.<br>🌱 I’m currently learning Java Programming Language<br>📫 How to reach me sasinransara@gmail.com
+🔭 I'm Sasin Ransara. Software Engineering(undergraduate) Student at SLIIT.<br>🌱 I’m currently learning Java Programming Language<br>📫 How to reach me sasinransara@gmail.com
 
 
 ## 🌐 Socials:
