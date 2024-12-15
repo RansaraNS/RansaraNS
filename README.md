@@ -1,6 +1,9 @@
-# 💫 About Me:
-🔭 I'm Sasin Ransara. Software Engineering(undergraduate) Student at SLIIT.<br>🌱 I’m currently learning Java Programming Language<br>📫 How to reach me sasinransara@gmail.com
+![LinkedIn Cover](https://github.com/user-attachments/assets/61cb1bc8-a33c-44dd-a2ad-2bcdb70f5e09)# 💫 About Me:
+🔭 I'm Sasin Ransara. Software Engineering(undergraduate) Student at SLIIT.
 
+![Uploading LinkedIn Cover.jpg…]()
+
+<br>🌱 I’m currently learning Java Programming Language<br>📫 How to reach me sasinransara@gmail.com
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/Sasin.Ransara) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/rxn__00) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sasin-ransara) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/Sasin.ransara) 
